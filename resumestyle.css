@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    border-radius: 5px solid red;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header p {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    
+}
+.about{ 
+   
+    margin: 40px;
+    box-shadow: inset;
+    box-sizing: border-box;
+    border-radius: 3px solid rgb(94, 94, 190);
+    background-color: #e4afaf;
+    
+}
+.education{
+
+    margin: 40px;
+    box-shadow: inset;
+    box-sizing: border-box;
+    border-radius: 3px solid rgb(94, 94, 190);
+    background-color: #e4afaf;
+}
+.experience{
+
+    margin: 40px;
+    box-shadow: inset;
+    box-sizing: border-box;
+    border-radius: 3px solid rgb(94, 94, 190);
+    background-color: #e4afaf;
+}
+.skills{
+    
+
+        margin: 40px;
+        box-shadow: inset;
+        box-sizing: border-box;
+        border-radius: 3px solid rgb(94, 94, 190);
+        background-color: #e4afaf;
+    }
+
+.projects{
+    
+
+        margin: 40px;
+        box-shadow: inset;
+        box-sizing: border-box;
+        border-radius: 3px solid rgb(94, 94, 190);
+        background-color: #e4afaf;
+    }
+
+
+h2 {
+    color: #4CAF50;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
